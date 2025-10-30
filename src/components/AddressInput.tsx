@@ -15,6 +15,9 @@ export function AddressInput({
   isInputValid, 
   onAnalyze 
 }: AddressInputProps) {
+
+  const dell = "";
+  
   return (
     <div className='space-y-4'>
       <div className='space-y-2'>
